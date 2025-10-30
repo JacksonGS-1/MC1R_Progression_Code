@@ -1,7 +1,7 @@
 # MC1R_Progression_Code
 Project Title: MC1R loss-of-function is associated with accelerated motor progression in Parkinson’s disease 
 
-Project Overview: Included in this repository is the R and SAS code used to analyze longitudinal clinical and a-synuclein seed amplification assay data from PD and prodromal PD participants in the Parkinson's Progression Markers Initiative (PPMI). In order to analyze different clinical parameters simply rename the "updrs" to the parameter of interest. 
+Project Overview: Included in this repository is the R and SAS code used to analyze longitudinal clinical data from PD and prodromal PD participants in the Parkinson's Progression Markers Initiative (PPMI). In order to analyze different clinical parameters simply rename "updrs" to the parameter of interest. 
 
 Dependencies: The data required to run this code can be found in the PPMI Database (www.ppmi-info.org/access-data-specimens/download-data; RRID:SCR00_6431). After downloading and curating the data from PPMI, simply update the working directory and file paths to run this code. The following R packages are required to run this code: dplyr, readxl, tableone, writexl, tidyr, VennDiagram, grid, lme4, lmerTest, ggplot2, sjPlot, broom.mixed, patchwork, ggpubr, RColorBrewer, vcd. 
 

@@ -201,10 +201,13 @@ article is published:
 
 ## Acknowledgements
 
-This research was funded in part by Aligning Science Across Parkinson's
-grants ASAP-000312 and MJFF-028544 through the Michael J. Fox Foundation
-for Parkinson's Research (MJFF) and by the National Institutes of Health
-through the National Institute of Neurological Disorders and Stroke
+This research is supported as part of Aligning Science Across Parkinson’s 
+(ASAP) (https://ror.org/03zj4c476) [ASAP-000312; MJFF-028544], a research 
+initiative managed by the Coalition for Aligning Science (CAS) 
+(https://ror.org/00rf4ez40). The Michael J. Fox Foundation for Parkinson’s 
+Research (MJFF) (https://ror.org/03arq3225) is the funding and strategic 
+partner. This research was also supported by the National Institutes of 
+Health through the National Institute of Neurological Disorders and Stroke
 grant R01NS102735. For the purpose of open access, the author has
 applied a CC BY public copyright license to all Author Accepted
 Manuscripts arising from this submission.

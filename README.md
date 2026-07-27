@@ -208,9 +208,7 @@ initiative managed by the Coalition for Aligning Science (CAS)
 Research (MJFF) (https://ror.org/03arq3225) is the funding and strategic 
 partner. This research was also supported by the National Institutes of 
 Health through the National Institute of Neurological Disorders and Stroke
-grant R01NS102735. For the purpose of open access, the author has
-applied a CC BY public copyright license to all Author Accepted
-Manuscripts arising from this submission.
+grant R01NS102735.
 
 Data used in the preparation of this article were obtained from the
 Parkinson's Progression Markers Initiative (PPMI) database
